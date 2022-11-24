@@ -1,0 +1,9 @@
+public class Identitas {
+  public static void main(String[] args){
+    System.out.println("Assalamualaikum");
+    System.out.println("nama saya : Firman Wijaya Kusuma");
+    System.out.println("tahun lahir : 2004");
+  }
+}
+
+//saya menggunakan tools pemrograman dari jdodle di website
